@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct 25 21:01:09 2022
+
+@author: Administrator
+"""
 import numpy as np
 
 # 给定空间：
