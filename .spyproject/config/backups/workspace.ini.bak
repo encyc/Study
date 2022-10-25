@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['WeChat\\wechat_auto.py', 'venv\\Lib\\site-packages\\wxauto\\wxauto.py']
+recent_files = ['WeChat\\wechat_auto.py', 'venv\\Lib\\site-packages\\wxauto\\wxauto.py', 'trict\\love.py', 'PythonLearningScoreCard\\chapter4\\main.py', 'PythonLearningScoreCard\\chapter5\\variable_encode.py', 'trict\\ice.py']
 
 [main]
 version = 0.2.0
